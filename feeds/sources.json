@@ -1,0 +1,19 @@
+{
+    "feeds": [
+        {
+            "name": "Krebs on Security",
+            "url": "https://krebsonsecurity.com/feed/",
+            "category": "Investigative"
+        },
+        {
+            "name": "The Hacker News",
+            "url": "https://feeds.feedburner.com/TheHackersNews",
+            "category": "General"
+        },
+        {
+            "name": "Dark Reading",
+            "url": "https://www.darkreading.com/rss.xml",
+            "category": "Threat Intelligence"
+        }
+    ]
+}
